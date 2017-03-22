@@ -113,7 +113,7 @@
         <webResources>
               <resource>
                                     <!-- this is relative to the pom.xml directory -->
-                 <directory>/home/ec2-user/apache-tomcat-7.0.76/webapps</directory>
+                 <directory>/home/ec2-user/.jenkins/workspace/maven</directory>
               </resource>
         </webResources>
    </configuration>         
